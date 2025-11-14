@@ -1,0 +1,8 @@
+# Esta carpeta contiene los modelos entrenados
+# 
+# Se genera automáticamente al ejecutar el notebook:
+#   entrenamiento/entrenar_modelo.ipynb
+#
+# Archivos generados:
+#   - ClasificadorDocumentos.pkl (modelo entrenado)
+#   - info_modelo.pkl (metadatos del modelo)
